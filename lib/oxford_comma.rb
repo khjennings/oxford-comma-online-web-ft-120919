@@ -1,3 +1,3 @@
 def oxford_comma 
-  oxford_comma = ["kiwi"]
+ ["kiwi"]
 end
