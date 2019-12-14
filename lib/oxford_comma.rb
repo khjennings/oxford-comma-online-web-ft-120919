@@ -1,5 +1,5 @@
 def oxford_comma 
- ["kiwi"]
+ "kiwi"
 end
-  oxford_comma.join
+  
   
